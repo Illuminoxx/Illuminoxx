@@ -1,16 +1,45 @@
-## Hi there 👋
+## gentlemen... 🕸️
+		
+- Hi ❗  I'm Prashant 
+- 💻 Aspiring Software Engineer & Machine Learning Enthusiast  
 
-<!--
-**Illuminoxx/Illuminoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## a little debriefing
+
+- 🎓 Computer Science student with dynamic foundation in web developement, ML, and cores 
+- 🔭 Current project completion: tweet Sentiment Analysis & Full-stack ML stock predictor 
+- ⚡ ambititious about: Backend Development, AI/ML, System Design
+- 🧠  C++, Python, Data Structures & Algorithms
+
+
+	## Tech Stack
+
+- **Languages:** C++,java, Python, JavaScript
+- **Frameworks:** Flask, React ,CSS
+- **Tools:** Git, Docker, Hugging Face
+- **Cores:** DSA, OOP, DBMS, OS, CN
+
+
+##  📌 Projects
+
+### 🔹 stock prediction through Twitter Sentiment Analysis.
+- Built ML model to classify  tweet sentiments using NLP
+- Integrated with Hugging Face API for inference
+- Developed full-stack site with backend + UI
+
+- 🚀 Live Demo: https://vectorxx-sentiment.hf.space
+- 💻 Code: https://github.com/Illuminoxx/QuantMirror.git
+
+
+  ## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/prashantzx
+- Email: prashant11ujjain@gmail.com
+
+
+
+
+
+
+	
