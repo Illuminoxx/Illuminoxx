@@ -23,7 +23,7 @@
 ##  📌 Projects
 
 ### 🔹 stock prediction through Twitter Sentiment Analysis.
-- Built ML model to classify  tweet sentiments using NLP
+- Built ML model to classify tweet sentiments using NLP and predict next day stock of a company
 - Integrated with Hugging Face API for inference
 - Developed full-stack site with backend + UI
 
