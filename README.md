@@ -4,17 +4,15 @@
 - 💻 Aspiring Software Engineer & Machine Learning Enthusiast  
 
 
-
-
 ## a little debriefing
 
 - 🎓 Computer Science student with dynamic foundation in web developement, ML, and cores 
 - 🔭 Current project completion: tweet Sentiment Analysis & Full-stack ML stock predictor 
 - ⚡ ambititious about: Backend Development, AI/ML, System Design
 - 🧠  C++, Python, Data Structures & Algorithms
+- 🌐 Open to internships & job roles.
 
-
-	## Tech Stack
+	## Tech Stack 🔨
 
 - **Languages:** C++,java, Python, JavaScript
 - **Frameworks:** Flask, React ,CSS
@@ -33,9 +31,9 @@
 - 💻 Code: https://github.com/Illuminoxx/QuantMirror.git
 
 
-  ## 📫 Connect with Me
+  ## 🔗 Connect :
 - LinkedIn: https://www.linkedin.com/in/prashantzx
-- Email: prashant11ujjain@gmail.com
+- 📩 Email: prashant11ujjain@gmail.com
 
 
 
