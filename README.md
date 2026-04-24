@@ -6,9 +6,9 @@
 <h2 align="left"> a little debriefing  👾</h2>
 
 <p align="left">
-💻 Aspiring Software Engineer & Machine Learning Enthusiast<br>
-🎓 Computer Science student with dynamic foundation in web developement, ML, and cores<br>
-⚡ ambititious about: Backend Development, AI/ML, System Design<br>
+💻 Aspiring Software Engineer &           Machine Learning Enthusiast<br>
+🎓 Computer Science student with          dynamic foundation in web              developement, ML, and cores<br>
+⚡ ambititious about: Backend             Development, AI/ML, System             Design<br>
 ⛳ Open to internships & job roles
 </p>
 
