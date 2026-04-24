@@ -28,7 +28,7 @@
 - Developed full-stack site with backend + UI
 
 - 🚀 Live Demo: https://vectorxx-sentiment.hf.space
-- 💻 Code: https://github.com/Illuminoxx/QuantMirror.git
+- 💻 source Code: https://github.com/Illuminoxx/QuantMirror.git
 
 
   ## 🔗 Connect :
