@@ -4,7 +4,7 @@
 - 💻 Aspiring Software Engineer & Machine Learning Enthusiast  
 
 
-## a little debriefing
+## a little debriefing 🧑‍💼
 
 - 🎓 Computer Science student with dynamic foundation in web developement, ML, and cores 
 - 🔭 Current project completion: tweet Sentiment Analysis & Full-stack ML stock predictor 
