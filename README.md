@@ -1,6 +1,6 @@
 ## gentlemen... 🕸️
 		
-- Hi ❗  I'm Prashant 
+- Hi❗  I'm Prashant 
 - 💻 Aspiring Software Engineer & Machine Learning Enthusiast  
 
 
