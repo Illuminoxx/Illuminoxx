@@ -52,7 +52,8 @@
 
 <h2 align="left">📌 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</h2>
 
-### 💲 Twitter Sentiment Analysis (Production ML App)
+### 💲 stock predictor through tweet sentiment Analysis 
+( ML based predictor system )
 
 ```diff
 + Real-time stock prediction through tweet sentiment analysis (finbert + rainforest)
