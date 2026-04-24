@@ -71,11 +71,10 @@
 
 ---
 
-<h2 align="center">🧩 coding stat 💻 </h2>
+<h2 align="center">🧩 programming 💻 </h2>
 
 <p align="center">
--  250+ DSA LeetCode Problems Solved <br>
--  Currently in top 19% of LeetCoders
+ 🕸️ solved so250+ DSA  Problems on leetcode &nbsp; | &nbsp; ⚡ Top 19% on LeetCode global ranking
 </p>
 
 ---
@@ -83,8 +82,9 @@
 <h2 align="left">🔗 let's connect </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prashantzx">💼 LinkedIn</a><br>
-<a href="mailto:prashant11ujjain@gmail.com">📩 Email</a>
+<a href="https://www.linkedin.com/in/prashantzx"> 💼 LinkedIn</a><br>
+	<br>
+<a href="mailto:prashant11ujjain@gmail.com"> 📩 Email</a>
 </p>
 
 ---
