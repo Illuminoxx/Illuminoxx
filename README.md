@@ -3,10 +3,13 @@
 
 ---
 
-<h2 align="center"> 𝑾𝒉𝒐 𝑰 𝑨𝒎 ? 👾</h2>
+<h2 align="left"> a little debriefing  👾</h2>
 
-<p align="center">
-💻 Aspiring Software Engineer & Machine Learning Enthusiast
+<p align="left">
+💻 Aspiring Software Engineer & Machine Learning Enthusiast<br>
+🎓 Computer Science student with dynamic foundation in web developement, ML, and cores<br>
+⚡ ambititious about: Backend Development, AI/ML, System Design<br>
+⛳ Open to internships & job roles
 </p>
 
 ---
@@ -32,7 +35,7 @@
 
 ---
 
-<h2 align="center">live ststs 📊 </h2>
+<h2 align="center">live stats 📊 </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=illuminoxx&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -47,7 +50,7 @@
 
 ---
 
-<h2 align="center">📌 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</h2>
+<h2 align="left">📌 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</h2>
 
 ### 💲 Twitter Sentiment Analysis (Production ML App)
 
@@ -72,14 +75,14 @@
 
 <p align="center">
 -  250+ DSA LeetCode Problems Solved <br>
--  Currently in top 19% of LeetCode users
+-  Currently in top 19% of LeetCoders
 </p>
 
 ---
 
-<h2 align="center">🔗 let's connect </h2>
+<h2 align="left">🔗 let's connect </h2>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/prashantzx">💼 LinkedIn</a><br>
 <a href="mailto:prashant11ujjain@gmail.com">📩 Email</a>
 </p>
