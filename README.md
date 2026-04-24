@@ -74,7 +74,7 @@
 <h2 align="center">🧩 programming 💻 </h2>
 
 <p align="center">
- 🕸️ solved so250+ DSA  Problems on leetcode &nbsp; | &nbsp; ⚡ Top 19% on LeetCode global ranking
+ 🕸️ solved 250+ DSA  Problems on leetcode &nbsp; | &nbsp; ⚡ Top 19% on LeetCode global ranking
 </p>
 
 ---
