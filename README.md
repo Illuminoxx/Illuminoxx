@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🚀 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌</h2>
+<h2 align="center">Tech stack 🔨 </h2>
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">📊 𝑳𝒊𝒗𝒆 𝑺𝒕𝒂𝒕𝒔</h2>
+<h2 align="center">live ststs 📊 </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=illuminoxx&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -60,7 +60,7 @@
 
 -  🌐 Live Demo: https://huggingface.co/spaces/vectorxx/sentiment
 
--  💻 Source Code: https://github.com/Illuminoxx/QuantMirror.git
+-  📃 Source Code: https://github.com/Illuminoxx/QuantMirror.git
 
 ---
 
@@ -68,16 +68,16 @@
 
 ---
 
-<h2 align="center">🧩 𝑪𝒐𝒅𝒊𝒏𝒈</h2>
+<h2 align="center">🧩 coding stat 💻 </h2>
 
 <p align="center">
--  250+ DSA LC Problems Solved 
-- ⚡ currently in top 19% of leetcoders
+-  250+ DSA LeetCode Problems Solved <br>
+-  Currently in top 19% of LeetCode users
 </p>
 
 ---
 
-<h2 align="center">🔗 let's 𝑪𝒐𝒏𝒏𝒆𝒄𝒕</h2>
+<h2 align="center">🔗 let's connect </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prashantzx">💼 LinkedIn</a><br>
