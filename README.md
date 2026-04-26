@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="left"> a little debriefing  👾</h2>
+<h2 align="left"> self debriefing  👾</h2>
 
 <p align="left">
 💻 Aspiring Software Engineer &           Machine Learning Enthusiast<br>
