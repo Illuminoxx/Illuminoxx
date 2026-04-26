@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center">🧩 programming 💻 </h2>
+<h2 align="center"> programming 💻 </h2>
 
 <p align="center">
  🕸️ solved 250+ DSA  Problems on leetcode &nbsp; | &nbsp; ⚡ Top 19% on LeetCode global ranking
