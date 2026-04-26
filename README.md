@@ -7,7 +7,7 @@
 
 <p align="left">
 💻 Aspiring Software Engineer &           Machine Learning Enthusiast<br>
-🎓 Computer Science student with          dynamic foundation in web              developement, ML, and cores<br>
+🎓 Computer Science student with          valuable foundation in web              developement, ML, and cores systems <br>
 ⚡ interested fields: Backend             Development, AI/ML, System             Design<br>
 ⛳ Open to internships & job roles
 </p>
