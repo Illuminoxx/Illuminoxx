@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">Tech stack 🔨 </h2>
+<h2 align="center">stacks 🔨 </h2>
 
 <p align="center">
 
