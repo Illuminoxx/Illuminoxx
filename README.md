@@ -13,11 +13,35 @@
 
 ## 🧠 about me
 
-CS student at the intersection of **machine learning** and **backend engineering**.
-I build and ship real systems — not just notebooks. Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces. ICPC-style competitive programmer, Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> **Interested in →** Backend Dev · AI/ML Engineering · System Design · MLOps
+**🤖 ML Engineer**
 
+Deployed **FinBERT + Random Forest** pipeline for stock sentiment prediction on HuggingFace Spaces.
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Competitive Programmer**
+
+**250+ DSA** problems solved. ICPC-style contest focus. Top **19%** globally on LeetCode.
+
+</td>
+<td width="33%" valign="top">
+
+**🔧 Backend Dev**
+
+Flask · Node.js · REST APIs. Real deployment experience — not just notebooks or toy projects.
+
+</td>
+</tr>
+</table>
+
+> `→` Backend Dev &nbsp;·&nbsp; AI/ML Engineering &nbsp;·&nbsp; System Design &nbsp;·&nbsp; MLOps
+> 
+> `→` Open to internships & full-time roles
 ---
 
 ## ⚡ tech stack
