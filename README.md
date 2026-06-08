@@ -1,14 +1,7 @@
 
 ![Banner](./banner_v3.svg)
 
-## 👨‍💻 Prashant Singh
 
-> `//` CS Student · ML Engineer · Competitive Programmer
-
-![Open to Work](https://img.shields.io/badge/●%20Open%20to%20Work-4ade80?style=flat-square&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20·%20AI%2FML-38bdf8?style=flat-square)
-![LeetCode](https://img.shields.io/badge/Top%2019%25%20LeetCode-c084fc?style=flat-square)
-![DSA](https://img.shields.io/badge/250%2B%20DSA%20Solved-fbbf24?style=flat-square)
 
 ---
 
