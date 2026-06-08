@@ -108,7 +108,10 @@ Tools       →  Git  GitHub  Linux
 ![Flask](https://img.shields.io/badge/Flask-38bdf8?style=flat-square)
 ![HF Spaces](https://img.shields.io/badge/HF%20Spaces-38bdf8?style=flat-square)
 
-🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
+
+
++ 🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) 
++ 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
 
 ---
 
