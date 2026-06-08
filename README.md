@@ -15,7 +15,7 @@ B.Tech · Computer Science & Engineering · ![badge](https://img.shields.io/badg
 
 ⚙️ Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces.
 
-📝  competitive programmer
+📝 A regular competitive programmer at leetcode  & codeforces 
 
 🔧 Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
 
