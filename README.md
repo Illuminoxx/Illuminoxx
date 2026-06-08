@@ -1,7 +1,6 @@
-
-![Banner](./banner_v3.svg)
-
-
+<p align="center">
+  <img src="banner_v3.svg" width="100%"/>
+</p>
 
 ---
 
