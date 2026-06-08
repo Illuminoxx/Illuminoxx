@@ -70,7 +70,7 @@ Tools       →  Git  GitHub  Linux
 | Global Rank | Top 19% |
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Illuminoxx?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/Illuminoxx)
+
 
 ---
 
@@ -78,8 +78,7 @@ Tools       →  Git  GitHub  Linux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Illuminoxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illuminoxx&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165"/>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
