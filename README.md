@@ -20,10 +20,11 @@ B.Tech · Computer Science & Engineering · ![Year](https://img.shields.io/badge
 
 
 
-interested in Backend Dev · AI/ML Engineering · System Design · MLOps
+> 🧿 interested in Backend Dev · AI/ML Engineering · System Design · MLOps
 
 
 ---
+
 
 ## ⚡ tech stack
 
@@ -34,7 +35,7 @@ AI / ML    →  FinBERT  scikit-learn  HuggingFace
 Tools       →  Git  GitHub  WEKA  MySQL-workbench Lex 
 ```
 
-[![Skills](https://skillicons.dev/icons?i=cpp,python,flask,nodejs,git,github,sklearn,linux&theme=dark)](https://github.com/Illuminoxx)
+[![Skills](https://skillicons.dev/icons?i=cpp,python,flask,nodejs,git,github,sklearn)](https://github.com/Illuminoxx)
 
 ---
 
@@ -107,11 +108,6 @@ Tools       →  Git  GitHub  WEKA  MySQL-workbench Lex
 [![GitHub](https://img.shields.io/badge/GitHub-Illuminoxx-181717?style=for-the-badge&logo=github)](https://github.com/Illuminoxx)
 
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Illuminoxx&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
-
-</div>
 
 
 </td>
