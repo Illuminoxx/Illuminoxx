@@ -20,7 +20,7 @@ B.Tech · Computer Science & Engineering · ![Year](https://img.shields.io/badge
 
 
 
-> 🧿 interested in Backend Dev · AI/ML Engineering · System Design · MLOps
+> 🧿 interested in Backend Dev · AI/ML Engineering · System Design 
 
 
 ---
@@ -77,7 +77,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 + Real-time tweet ingestion via PRAW
 + Flask REST backend + vanilla JS frontend
 + Deployed live on HuggingFace Spaces
-~ Stack: Python · Flask · scikit-learn · yFinance · PRAW
+~ Stack: Python · Flask · scikit-learn · yahoo-Finance 
 ```
 
 ![FinBERT](https://img.shields.io/badge/FinBERT-4ade80?style=flat-square)
@@ -97,7 +97,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Illuminoxx&theme=github-compact&hide_border=true&area=true)](https://github.com/Illuminoxx)
 
 
-🟡 **MLOps & Deployment** — HF Spaces · CI/CD · Git
+🟡 **Deployment-enviornment** — HF Spaces · CI/CD · Git
 
 ---
 
