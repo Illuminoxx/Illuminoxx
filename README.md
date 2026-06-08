@@ -5,40 +5,25 @@
 ---
 ## 🧠 about me
 
-CS student at the intersection of **machine learning** and **backend engineering**.
-I build and ship real systems — not just notebooks. Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces. ICPC-style competitive programmer, Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
+💠 CS student at the intersection of **machine learning** and **backend engineering**.
 
-> **Interested in →** Backend Dev · AI/ML Engineering · System Design · MLOps
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏛️ NIT Patna**
-B.Tech · Computer Science & Engineering
-
-![Year](https://img.shields.io/badge/2023–2027-4ade80?style=flat-square)
+**🎓 NIT Patna**
+B.Tech · Computer Science & Engineering · ![Year](https://img.shields.io/badge/2023–2027-4ade80?style=flat-square)
 ![Year](https://img.shields.io/badge/3rd%20Year-c084fc?style=flat-square)
 ![Location](https://img.shields.io/badge/Patna,%20Bihar-555?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+⚙️ Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces.
 
-**Degree Progress**
-```
-S1 S2 S3 S4 S5 [S6] S7 S8
-▓▓ ▓▓ ▓▓ ▓▓ ▓▓  ▓▓  ░░ ░░   75%
-```
-S6 currently active · 2 semesters remaining
+📝  competitive programmer
 
-</td>
-</tr>
-</table>
+🔧 Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
 
+
+
+interested in Backend Dev · AI/ML Engineering · System Design · MLOps
+
+
+---
 
 ## ⚡ tech stack
 
