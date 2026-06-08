@@ -74,7 +74,6 @@ Real-time tweet ingestion via PRAW, Flask backend, deployed on HuggingFace Space
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prashantzx-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashantzx)
 [![Email](https://img.shields.io/badge/Email-prashant11ujjain%40gmail.com-30FF94?style=flat&logo=gmail&logoColor=white)](mailto:prashant11ujjain@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Illuminoxx-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Illuminoxx)
 
 ---
 
