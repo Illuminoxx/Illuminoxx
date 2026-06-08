@@ -64,11 +64,11 @@ Tools       →  Git  GitHub  Linux
 
 ## 🏆 programming
 
-| metric | value |
+| metric   | value |
 |--------|-------|
 | Problems Solved | 250+ |
 | Global Rank | Top 19% |
-| Style | ICPC / Contest |
+
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Illuminoxx?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/Illuminoxx)
 
@@ -83,7 +83,6 @@ Tools       →  Git  GitHub  Linux
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Illuminoxx&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/Illuminoxx)
 
 </div>
 
@@ -108,8 +107,6 @@ Tools       →  Git  GitHub  Linux
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-4ade80?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-38bdf8?style=flat-square)
 ![HF Spaces](https://img.shields.io/badge/HF%20Spaces-38bdf8?style=flat-square)
-![PRAW](https://img.shields.io/badge/PRAW-c084fc?style=flat-square)
-![yFinance](https://img.shields.io/badge/yFinance-c084fc?style=flat-square)
 
 🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
 
@@ -119,6 +116,9 @@ Tools       →  Git  GitHub  Linux
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Illuminoxx&theme=github-compact&hide_border=true&area=true)](https://github.com/Illuminoxx)
 
+
+🟡 **MLOps & Deployment** — HF Spaces · CI/CD · Git
+
 ---
 
 ## 🔗 connect
@@ -126,7 +126,7 @@ Tools       →  Git  GitHub  Linux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prashantzx-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashantzx)
 [![Email](https://img.shields.io/badge/Email-prashant11ujjain%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashant11ujjain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Illuminoxx-181717?style=for-the-badge&logo=github)](https://github.com/Illuminoxx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Illuminoxx-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Illuminoxx)
+
 
 <div align="center">
 
@@ -134,7 +134,6 @@ Tools       →  Git  GitHub  Linux
 
 </div>
 
-🟡 **MLOps & Deployment** — HF Spaces · CI/CD · Git
 
 </td>
 </tr>
