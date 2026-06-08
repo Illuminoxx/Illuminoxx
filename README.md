@@ -39,49 +39,6 @@ S6 currently active · 2 semesters remaining
 
 ---
 
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🤖 ML Engineer**
-
-Deployed **FinBERT + Random Forest** pipeline for stock sentiment prediction on HuggingFace Spaces. Real production systems.
-
-![](https://img.shields.io/badge/HF%20Spaces·Flask·sklearn-38bdf8?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-**⚡ Competitive Programmer**
-
-**250+ DSA** problems solved. ICPC-style contest focus. Top **19%** globally on LeetCode.
-
-![](https://img.shields.io/badge/LeetCode·ICPC%20style-4ade80?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<!-- header badges -->
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-4ade80?style=flat-square&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20·%20AI%2FML%20·%20Systems-38bdf8?style=flat-square)
-![LeetCode](https://img.shields.io/badge/Top%2019%25%20LeetCode-c084fc?style=flat-square)
-![DSA](https://img.shields.io/badge/250%2B%20DSA%20Solved-4ade80?style=flat-square)
-
-# Prashant Singh
-
-```
-// cs student · ml engineer · competitive programmer
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+real-world+ML+systems+🤖;FinBERT+%2B+Flask+%2B+HuggingFace+Spaces+🚀;ICPC-style+Competitive+Programmer+⚡;Open+to+Internships+%26+Full-time+Roles+🎯;250%2B+DSA+Problems+%7C+Top+19%25+LeetCode+🔥)](https://github.com/Illuminoxx)
-
-</div>
-
----
 
 ## 🧠 about me
 
@@ -105,7 +62,7 @@ Tools       →  Git  GitHub  Linux
 
 ---
 
-## 🏆 competitive programming
+## 🏆 programming
 
 | metric | value |
 |--------|-------|
