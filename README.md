@@ -29,10 +29,10 @@ B.Tech · Computer Science & Engineering · ![Year](https://img.shields.io/badge
 ## ⚡ tech stack
 
 ```
-Languages   →  C++ , java, Python , HTML+CSS , Jscript , react
-Frameworks  →  Flask  Node.js
-AI / ML    →  FinBERT  scikit-learn  HuggingFace  
-Tools       →  Git  GitHub  WEKA  MySQL-workbench Lex 
+Languages   →  C++ · java · Python · HTML+CSS · Jscript · react
+Frameworks  →  Flask · Node.js
+AI / ML    →   FinBERT · scikit-learn ·  HuggingFace  
+Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex 
 ```
 
 [![Skills](https://skillicons.dev/icons?i=cpp,python,flask,nodejs,git,github,sklearn)](https://github.com/Illuminoxx)
