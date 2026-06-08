@@ -1,5 +1,5 @@
 
-!Banner](./banner_v3.svg)
+[!Banner](./banner_v3.svg)
 
 ## 👨‍💻 Prashant Singh
 
