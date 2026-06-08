@@ -42,8 +42,9 @@ Tools       →  Git  GitHub  Linux
 
 | metric   | value |
 |--------|-------|
-| Problems Solved | 250+ |
-| Global Rank | Top 19% |
+| DSA Problems Solved | 400+ |
+| Global Rank on leetcode | Top 19% |
+| pupil on codeforces | 
 
 
 
