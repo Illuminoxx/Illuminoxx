@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="validated_svg.svg" width="100%"/>
+  <img src="validated_svg .svg" width="100%"/>
 </p>
 
 ---
