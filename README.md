@@ -28,10 +28,10 @@ interested in Backend Dev · AI/ML Engineering · System Design · MLOps
 ## ⚡ tech stack
 
 ```
-Languages   →  C++  Python
+Languages   →  C++ , java, Python , HTML+CSS , Jscript , react
 Frameworks  →  Flask  Node.js
-ML / AI     →  FinBERT  scikit-learn  HuggingFace  
-Tools       →  Git  GitHub  Linux
+AI / ML    →  FinBERT  scikit-learn  HuggingFace  
+Tools       →  Git  GitHub  WEKA  MySQL-workbench Lex 
 ```
 
 [![Skills](https://skillicons.dev/icons?i=cpp,python,flask,nodejs,git,github,sklearn,linux&theme=dark)](https://github.com/Illuminoxx)
@@ -40,11 +40,11 @@ Tools       →  Git  GitHub  Linux
 
 ## 🏆 programming
 
-| metric   | value |
-|--------|-------|
-| DSA Problems Solved | 400+ |
-| Global Rank on leetcode | Top 19% |
-| pupil on codeforces | 
+| metric                     |                           value |
+|----------------------------|---------------------------------|
+| DSA Problems Solved        |                            400+ |
+| Global Rank on leetcode    |                          Top 19% |
+
 
 
 
