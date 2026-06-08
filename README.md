@@ -12,7 +12,16 @@
 ---
 
 ## 🧠 about me
+## 🎓 education
 
+| | |
+|---|---|
+| **🏛️ NIT Patna** | B.Tech — Computer Science & Engineering |
+| 📅 **2023 – 2027** | 3rd Year · Patna, Bihar |
+
+```
+Progress  ████████████████████░░░░░░░  3 / 4 years
+```
 <table>
 <tr>
 <td width="33%" valign="top">
