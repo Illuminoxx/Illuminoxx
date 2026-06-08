@@ -39,17 +39,6 @@ S6 currently active · 2 semesters remaining
 </tr>
 </table>
 
----
-
-
-## 🧠 about me
-
-CS student at the intersection of **machine learning** and **backend engineering**.
-I build and ship real systems — not just notebooks. Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces. ICPC-style competitive programmer, Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
-
-> **Interested in →** Backend Dev · AI/ML Engineering · System Design · MLOps
-
----
 
 ## ⚡ tech stack
 
