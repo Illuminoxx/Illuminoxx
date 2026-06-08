@@ -1,99 +1,83 @@
-<h1 align="center"> PRASHANT SINGH 🧑‍💼 </h1>
-
-
----
-
-<h2 align="left"> self debriefing  -> </h2>
-
-<p align="left">
-💻 Aspiring Software Engineer &           Machine Learning Enthusiast<br>
-🎓 Computer Science student with          valuable foundation in web              developement, ML, and cores systems <br>
-⚡ interested fields: Backend             Development, AI/ML, System             Design<br>
-⛳ Open to internships & job roles
-</p>
-
----
-
-<h2 align="center">stacks 🔨 </h2>
+<h1 align="center">Prashant Singh</h1>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/⚙️_C++-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🌐_Flask-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Node.js-339933?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FCC624?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📊_ScikitLearn-F7931E?style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/🔧_Git-F05032?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=30FF94&center=true&vCenter=true&width=500&lines=CS+Student+%7C+ML+Enthusiast+%7C+Backend+Dev;FinBERT+%2B+Flask+%2B+HuggingFace+Spaces;Top+19%25+LeetCode+%7C+250%2B+DSA+Solved;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">live stats 📊 </h2>
+## about
 
-<p align="center">
+CS student building at the intersection of **machine learning** and **backend systems**.
+Currently deploying real-world ML — FinBERT-based stock sentiment analysis, Flask APIs, HuggingFace Spaces.
+250+ DSA problems solved. ICPC-style competitive programmer.
 
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=illuminoxx&theme=radical&hide_border=true" height="170"/>
-</p>
+> Interested in: Backend Development · AI/ML · System Design
 
 ---
 
----
+## stack
 
-<h2 align="left">📌 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</h2>
-
-### 💲 stock predictor through tweet sentiment Analysis 
-( ML based predictor system )
-
-```diff
-+ Real-time stock prediction through tweet sentiment analysis (finbert + rainforest)
-+ Hugging Face inference integration
-+ Flask backend + deployed on HF Spaces
-+ Designed for real user interaction
+```
+Languages   →  C++  Python
+Frameworks  →  Flask  Node.js
+ML/AI       →  FinBERT  scikit-learn  HuggingFace
+Tools       →  Git  GitHub  PRAW  yFinance
 ```
 
--  🌐 Live Demo: https://huggingface.co/spaces/vectorxx/sentiment
+---
 
--  📃 Source Code: https://github.com/Illuminoxx/QuantMirror.git
+## at a glance
+
+| metric | value |
+|--------|-------|
+| DSA problems solved | 250+ |
+| LeetCode global rank | Top 19% |
+| Deployed ML projects | 2+ |
 
 ---
 
+## featured project
 
+### SentimentEdge — Stock Predictor via Tweet Sentiment
+
+Dual-model pipeline combining **FinBERT + Random Forest** for next-day stock movement prediction.
+Real-time tweet ingestion via PRAW, Flask backend, deployed on HuggingFace Spaces.
+
+```diff
++ FinBERT sentiment scoring on financial tweets
++ Random Forest classifier for movement prediction
++ Flask REST API backend
++ Deployed on HuggingFace Spaces
++ PRAW-based real-time tweet ingestion
+```
+
+🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
 
 ---
 
-<h2 align="center"> programming 💻 </h2>
+## github stats
 
 <p align="center">
- 🕸️ solved 250+ DSA  Problems on leetcode &nbsp; | &nbsp; ⚡ Top 19% on LeetCode global ranking
+  <img src="https://github-readme-stats.vercel.app/api?username=Illuminoxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illuminoxx&theme=github_dark&hide_border=true&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<h2 align="left">🔗 let's connect </h2>
+## connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/prashantzx"> 💼 LinkedIn</a><br>
-	<br>
-<a href="mailto:prashant11ujjain@gmail.com"> 📩 Email</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prashantzx-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashantzx)
+[![Email](https://img.shields.io/badge/Email-prashant11ujjain%40gmail.com-30FF94?style=flat&logo=gmail&logoColor=white)](mailto:prashant11ujjain@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Illuminoxx-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Illuminoxx)
 
 ---
 
-
-
-
-
-
-
-	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Illuminoxx&style=flat&color=30ff94&label=profile+views" />
+</p>
