@@ -1,82 +1,113 @@
-<h1 align="center">Prashant Singh</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=30FF94&center=true&vCenter=true&width=500&lines=CS+Student+%7C+ML+Enthusiast+%7C+Backend+Dev;FinBERT+%2B+Flask+%2B+HuggingFace+Spaces;Top+19%25+LeetCode+%7C+250%2B+DSA+Solved;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG" />
-</p>
+<!-- header badges -->
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-4ade80?style=flat-square&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20·%20AI%2FML%20·%20Systems-38bdf8?style=flat-square)
+![LeetCode](https://img.shields.io/badge/Top%2019%25%20LeetCode-c084fc?style=flat-square)
+![DSA](https://img.shields.io/badge/250%2B%20DSA%20Solved-4ade80?style=flat-square)
+
+# Prashant Singh
+
+```
+// cs student · ml engineer · competitive programmer
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+real-world+ML+systems+🤖;FinBERT+%2B+Flask+%2B+HuggingFace+Spaces+🚀;ICPC-style+Competitive+Programmer+⚡;Open+to+Internships+%26+Full-time+Roles+🎯;250%2B+DSA+Problems+%7C+Top+19%25+LeetCode+🔥)](https://github.com/Illuminoxx)
+
+</div>
 
 ---
 
-## about
+## 🧠 about me
 
-CS student building at the intersection of **machine learning** and **backend systems**.
-Currently deploying real-world ML — FinBERT-based stock sentiment analysis, Flask APIs, HuggingFace Spaces.
-250+ DSA problems solved. ICPC-style competitive programmer.
+CS student at the intersection of **machine learning** and **backend engineering**.
+I build and ship real systems — not just notebooks. Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces. ICPC-style competitive programmer, Flask/Node.js backend dev, and ML practitioner with hands-on deployment experience.
 
-> Interested in: Backend Development · AI/ML · System Design
+> **Interested in →** Backend Dev · AI/ML Engineering · System Design · MLOps
 
 ---
 
-## stack
+## ⚡ tech stack
 
 ```
 Languages   →  C++  Python
 Frameworks  →  Flask  Node.js
-ML/AI       →  FinBERT  scikit-learn  HuggingFace
-Tools       →  Git  GitHub  PRAW  yFinance
+ML / AI     →  FinBERT  scikit-learn  HuggingFace  PRAW  yFinance
+Tools       →  Git  GitHub  Linux
 ```
+
+[![Skills](https://skillicons.dev/icons?i=cpp,python,flask,nodejs,git,github,sklearn,linux&theme=dark)](https://github.com/Illuminoxx)
 
 ---
 
-## at a glance
+## 🏆 competitive programming
 
 | metric | value |
 |--------|-------|
-| DSA problems solved | 250+ |
-| LeetCode global rank | Top 19% |
-| Deployed ML projects | 2+ |
+| Problems Solved | 250+ |
+| Global Rank | Top 19% |
+| Style | ICPC / Contest |
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Illuminoxx?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/Illuminoxx)
 
 ---
 
-## featured project
+## 📊 github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Illuminoxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illuminoxx&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Illuminoxx&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/Illuminoxx)
+
+</div>
+
+---
+
+## 🚀 featured project
 
 ### SentimentEdge — Stock Predictor via Tweet Sentiment
 
-Dual-model pipeline combining **FinBERT + Random Forest** for next-day stock movement prediction.
-Real-time tweet ingestion via PRAW, Flask backend, deployed on HuggingFace Spaces.
+> Dual-model ML pipeline · FinBERT + Random Forest · Flask API · HuggingFace Spaces
 
 ```diff
 + FinBERT sentiment scoring on financial tweets
-+ Random Forest classifier for movement prediction
-+ Flask REST API backend
-+ Deployed on HuggingFace Spaces
-+ PRAW-based real-time tweet ingestion
++ Random Forest classifier for next-day movement prediction
++ Real-time tweet ingestion via PRAW
++ Flask REST backend + vanilla JS frontend
++ Deployed live on HuggingFace Spaces
+~ Stack: Python · Flask · scikit-learn · yFinance · PRAW
 ```
+
+![FinBERT](https://img.shields.io/badge/FinBERT-4ade80?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-4ade80?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-38bdf8?style=flat-square)
+![HF Spaces](https://img.shields.io/badge/HF%20Spaces-38bdf8?style=flat-square)
+![PRAW](https://img.shields.io/badge/PRAW-c084fc?style=flat-square)
+![yFinance](https://img.shields.io/badge/yFinance-c084fc?style=flat-square)
 
 🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
 
 ---
 
-## github stats
+## 📈 contribution activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Illuminoxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illuminoxx&theme=github_dark&hide_border=true&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true" height="150"/>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Illuminoxx&theme=github-compact&hide_border=true&area=true)](https://github.com/Illuminoxx)
 
 ---
 
-## connect
+## 🔗 connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prashantzx-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashantzx)
-[![Email](https://img.shields.io/badge/Email-prashant11ujjain%40gmail.com-30FF94?style=flat&logo=gmail&logoColor=white)](mailto:prashant11ujjain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prashantzx-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashantzx)
+[![Email](https://img.shields.io/badge/Email-prashant11ujjain%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashant11ujjain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Illuminoxx-181717?style=for-the-badge&logo=github)](https://github.com/Illuminoxx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Illuminoxx-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Illuminoxx)
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Illuminoxx&style=flat&color=30ff94&label=profile+views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Illuminoxx&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
+
+</div>
