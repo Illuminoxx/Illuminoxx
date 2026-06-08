@@ -8,9 +8,10 @@
 💠 CS student at the intersection of **machine learning** and **backend engineering**.
 
 **🎓 NIT Patna**
-B.Tech · Computer Science & Engineering · ![Year](https://img.shields.io/badge/2023–2027-4ade80?style=flat-square)
-![Year](https://img.shields.io/badge/3rd%20Year-c084fc?style=flat-square)
-![Location](https://img.shields.io/badge/Patna,%20Bihar-555?style=flat-square)
+B.Tech · Computer Science & Engineering · ![badge](https://img.shields.io/badge/2023–2027-115e59?style=flat-square)
+![Year](https://img.shields.io/badge/3rd%20Year-000000?style=flat-square)
+
+
 
 ⚙️ Currently deployed a dual-model FinBERT + Random Forest pipeline for stock movement prediction on HuggingFace Spaces.
 
