@@ -1,4 +1,6 @@
 
+!Banner](./banner_v3.svg)
+
 ## 👨‍💻 Prashant Singh
 
 > `//` CS Student · ML Engineer · Competitive Programmer
