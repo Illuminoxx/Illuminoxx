@@ -59,8 +59,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Illuminoxx&theme=github-dark-blue&hide_border=true&v=2)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,7 +97,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Illuminoxx&theme=github-compact&hide_border=true&area=true)](https://github.com/Illuminoxx)
 
 
-🟡 **Deployment-enviornment** — HF Spaces · CI/CD · Git
+🟡 **Deployment-enviornment** — HF Spaces · Git
 
 ---
 
