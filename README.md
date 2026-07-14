@@ -78,8 +78,8 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 + Persistent debug session history with searchable conversations
 ~ **Stack:** LangGraph · FastAPI · React · Groq Llama 3.3 · SQLite · Hugging Face Spaces · Vercel
 ```
-+ 🌐 [Live Demo](https://vectorxx-sentiment.hf.space) 
-+ 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
++ 🌐 [Live Demo](https://debugpilot-nine.vercel.app/) 
++ 📂 [Source Code](https://github.com/Illuminoxx/debugpilot.git)
 
 ---
 
