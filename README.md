@@ -87,7 +87,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 
 
 
-+ 🌐 [Live Demo](https://huggingface.co/spaces/vectorxx/sentiment) 
++ 🌐 [Live Demo](https://vectorxx-sentiment.hf.space) 
 + 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
 
 ---
