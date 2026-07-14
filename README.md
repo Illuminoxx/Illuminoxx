@@ -67,6 +67,20 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 
 ## 🚀 featured project
 
+### DebugAgent — Autonomous AI Debugging System
+**Agentic AI Workflow · LangGraph · FastAPI · React · Hugging Face Spaces**
+
++ Autonomous multi-agent debugging with iterative self-correction (up to 5 retries)
++ Sandbox code execution to validate fixes before presenting results
++ Real-time SSE streaming of analysis, patching, execution, and review
++ AI-generated code review with confidence scoring and bug categorization
++ Persistent debug session history with searchable conversations
+~ **Stack:** LangGraph · FastAPI · React · Groq Llama 3.3 · SQLite · Hugging Face Spaces · Vercel
+---
++ 🌐 [Live Demo](https://vectorxx-sentiment.hf.space) 
++ 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
+
+
 ### SentimentEdge — Stock Predictor via Tweet Sentiment
 
 > Dual-model ML pipeline · FinBERT + Random Forest · Flask API · HuggingFace Spaces
