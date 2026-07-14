@@ -104,7 +104,7 @@ Tools       →  Git ·  GitHub · WEKA  ·  MySQL-workbench · Lex
 
 
 + 🌐 [Live Demo](https://vectorxx-sentiment.hf.space) 
-+ 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror)
++ 📂 [Source Code](https://github.com/Illuminoxx/QuantMirror.git)
 
 ---
 
