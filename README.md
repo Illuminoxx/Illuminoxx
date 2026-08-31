@@ -9,7 +9,7 @@
 
 **🎓 NIT Patna**
 B.Tech · Computer Science & Engineering · ![badge](https://img.shields.io/badge/2023–2027-115e59?style=flat-square)
-![Year](https://img.shields.io/badge/3rd%20Year-000000?style=flat-square)
+![Year](https://img.shields.io/badge/final%20Year-000000?style=flat-square)
 
 
 
