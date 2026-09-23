@@ -21,7 +21,7 @@ B.Tech · Computer Science & Engineering · ![badge](https://img.shields.io/badg
 
 
 
-> 🧿 interested in Backend Dev · AI/ML Engineering · System Design 
+> 🧿 interested in Backend Dev · AI/ML Engineering ·
 
 
 ---
