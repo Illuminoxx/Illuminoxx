@@ -106,7 +106,7 @@
 
     <g class="pill2">
       <rect class="pc2" x="370" y="172" width="160" height="34" rx="17" fill="#9b59ff08" stroke="#9b59ff" stroke-width="1.5"/>
-      <text x="450" y="194" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#c8a8ff">Top 19% LeetCode</text>
+      <text x="450" y="194" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#c8a8ff">Knight @ LeetCode</text>
     </g>
 
     <g class="pill3">
